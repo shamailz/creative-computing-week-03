@@ -7,3 +7,6 @@ body {
 	line-height: 34px;
 	font-weight: lighter;
 }
+h1 {
+	text-transform: uppercase;
+}
