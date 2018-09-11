@@ -13,6 +13,7 @@ a {
 #title {
 	color: blue;
 }
+.important,
 .important a{
 	color: red;
 }
