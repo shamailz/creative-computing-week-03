@@ -1,3 +1,18 @@
 * {
     box-sizing: border-box;
 }
+body {
+	color: green;
+}
+a {
+	color: orange;
+}
+.more-text {
+	color: gray;
+}
+#title {
+	color: blue;
+}
+.important a{
+	color: red;
+}
